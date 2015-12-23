@@ -1,0 +1,417 @@
+
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+    width: 100%;
+      margin: auto;
+  
+  }
+  
+body {
+    background-image: url("brooksbackgroundshar2.jpg");
+    background-repeat:repeat;
+  background-size:100%;
+  font-family:Georgia;
+font-size: 18px;
+   
+}
+
+. carousel-inner {
+background-color:#0F4001;
+
+  color: white;
+  font-family:Georgia;
+font-size: 18px;
+
+}
+
+.container marketing {
+background-color:#0F4001;
+color: white;
+  font-family:Georgia;
+  font-size: 18px;
+
+}
+
+.row {
+background-color:#0F4001;
+color: white;
+  font-family:Georgia;
+  font-size: 18px;
+  
+
+
+}
+
+
+.img-circle {
+
+  color: #B8E545;
+  color: white;
+
+
+}
+
+
+.nav {
+  background: #4d0013;
+  color: white;
+ 
+font-family:Georgia;
+  
+
+ 
+
+}
+
+
+
+.navbar-inverse, .navbar-collapse, .navbar-inverse, .navbar-form {
+
+  background-color:#4d0013;
+  color: white;
+  
+
+ 
+}
+
+
+
+#navtitle {
+
+
+  background-color: #4d0013;
+color: white;
+font-family:Georgia;
+  font-size: 20px;
+  
+
+    
+}
+
+#navtitle a:hover {
+
+  color:#BF5FFF;
+  
+
+
+}
+
+
+
+
+
+#homebutton {
+
+  background-color: #303D33
+    color: white;
+}
+
+
+
+
+#navbarlinks {
+ 
+    color: white;
+
+    
+  
+ 
+}
+
+
+
+#caroimg {
+
+max-width: 680px;
+  
+  max-height: 390px;
+  
+}
+
+
+
+
+
+.col-md-pull-7  {
+
+padding: 10px;
+
+}
+
+.col-md-5  {
+
+padding: 10px;
+
+
+}
+
+.col-md-5 {
+
+padding: 10px;
+}
+
+
+
+
+
+#button1 {
+
+font-size: 20px;
+
+  
+}
+
+
+#button1 a:hover {
+
+
+  color:#BF5FFF ;
+  
+
+
+}
+
+
+#navtitle a:hover {
+
+  color:#BF5FFF ;
+  
+
+
+}
+
+
+#navbrand {
+
+font-size: 20px;
+    background-color: #4d0013;
+color: white;
+font-family:Georgia;
+
+
+}
+
+.navbar-inverse .navbar-brand, .navbar-inverse .navbar-nav>li>a {
+
+margin-left: -13px;
+  
+
+}
+
+
+#footer {
+
+background-color: #4d0013;
+
+
+  color: white;
+  font-family:Georgia;
+  font-size: 16px;
+
+  padding: 7px;
+  width:100%;
+  margin:auto;
+}
+
+#linkedin {
+   font-family:Georgia;
+  color: white;
+  padding-left: 75px;
+  
+
+
+
+}
+
+table {
+  
+  color:white;
+
+padding: 5px;
+  
+
+}
+
+
+#bodyformat {
+
+background-color:#0F4001;
+color: white;
+  font-family:Georgia;
+  font-size: 18px;
+  width: 60%;
+}
+
+#htmlcontainer {
+
+  width: 88%;
+
+}
+
+#footerhtml {
+
+background-color: #4d0013;
+
+
+  color: white;
+  font-family:Georgia;
+  font-size: 20px;
+
+  padding: 7px;
+  width:60%;
+  margin:auto;
+}
+
+#sitemap {
+
+
+
+
+}
+
+
+
+#ratetable {
+ border: 1px solid white;
+
+}
+
+table {
+
+padding: 4px;
+
+}
+
+#tablerow {
+
+  font-size: 20px;
+  
+
+
+}
+
+#ratep {
+
+align-content:center;
+
+
+}
+
+
+
+#rvcolor {
+
+background-color: white;
+  margin:auto;
+  align-content:center;
+  
+
+
+}
+
+
+#shrink {
+
+width:100%;
+  margin:auto;
+
+}
+
+
+#divider {
+
+width: 80%;
+
+}
+
+
+#navwidth {
+
+min-width: 660px;
+  height: 50px;
+
+}
+
+
+
+
+#bodyformat2 {
+
+background-color:#0F4001;
+color: white;
+  font-family:Georgia;
+  font-size: 18px;
+  width: 100%;
+
+}
+
+#realwidth {
+
+min-width: 660px;
+}
+
+.carousel-caption { position: relative; } 
+
+
+
+#owners{
+
+font-size: 32px;
+  font-family:Georgia;
+  color: white;
+
+
+}
+
+
+#caroimglot {
+
+  width: 1500px;
+  height: 2310px;
+
+}
+
+#frontpagehead {
+
+color:white;
+
+}
+
+
+#columns{
+
+width: 25%;
+
+}
+
+#imagegallery{
+  
+  
+align-content:center;
+
+
+}
+
+#lastpara{
+
+float:left;
+  padding-top: 2.5%;
+
+}
+
+#caroimgmobile {
+
+max-width: 680px;
+  
+  max-height: 300px;
+  
+}
+
+
+#caroimgmobile2 {
+
+width: 20%;
+  
+  max-height: 300px;
+  
+}
